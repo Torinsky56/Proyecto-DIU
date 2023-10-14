@@ -1,5 +1,5 @@
 # Proyecto-DIU
 
-Nicolas Toro
-Mauricio Urrutia
-Giuliana Zanetti
+# Nicolas Toro
+# Mauricio Urrutia
+# Giuliana Zanetti
