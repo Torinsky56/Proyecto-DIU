@@ -1,5 +1,5 @@
-# Proyecto-DIU
+# Inteligencia Artifical ALSP
 
  - Nicolás Toro
- - Mauricio Urrutia
- - Giuliana Zanetti
+ - Rol: 201956531-1
+
